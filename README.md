@@ -33,15 +33,15 @@ Empower users with a robust search and filter system, allowing them to easily fi
 
 Dynamically categorize events, seamlessly adding new event categories to keep your platform adaptable.
 
-## Checkout and Pay with Stripe
-
-Facilitate smooth and secure payment transactions using Stripe, enhancing the user experience during the checkout process.
-
 ## Event Orders
 
 Comprehensive order management system providing a clear overview of all event-related transactions.
 
 - **Search Orders:** Quick and efficient search functionality for orders, facilitating easy tracking and management.
+
+# Data
+
+All user data, event data, and any other relevant data is stored and managed in MongoDB.
 
 Feel free to explore the extensive capabilities of our Event Management System, providing a user-friendly experience for both administrators and event participants. 
 
