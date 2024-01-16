@@ -3,6 +3,17 @@
 # Description
 The EventHub is a MERN stack event management web application. It makes it very easy to create and organize events. I created it for an organization that I am apart of. We host many events and I wanted to be able to have them all neatly organized in one place. There are lots of features that make it quite efficient to manage the events. Hope you enjoy!
 
+# Technologies Used
+* Node.js
+* Next.js
+* TypeScript
+* TailwindCSS
+* Zod
+* Mongoose
+* React Hook Form
+* Shadcn
+* uploadthing
+
 # Features
 ## Authentication (CRUD) with Clerk
 
