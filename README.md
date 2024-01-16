@@ -43,5 +43,5 @@ Comprehensive order management system providing a clear overview of all event-re
 
 All user data, event data, and any other relevant data is stored and managed in MongoDB.
 
-Feel free to explore the extensive capabilities of our Event Management System, providing a user-friendly experience for both administrators and event participants. 
+Feel free to explore the extensive capabilities of this web app, providing a user-friendly experience for both administrators and event participants. 
 
