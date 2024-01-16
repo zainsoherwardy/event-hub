@@ -43,6 +43,5 @@ Comprehensive order management system providing a clear overview of all event-re
 
 - **Search Orders:** Quick and efficient search functionality for orders, facilitating easy tracking and management.
 
-Feel free to explore the extensive capabilities of our Event Management System, providing a user-friendly experience for both administrators and event participants. For detailed instructions on setup, configuration, and customization, refer to the documentation provided.
+Feel free to explore the extensive capabilities of our Event Management System, providing a user-friendly experience for both administrators and event participants. 
 
-*(Include any additional information or instructions as needed)*
